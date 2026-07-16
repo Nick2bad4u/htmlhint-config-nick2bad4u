@@ -1,0 +1,23 @@
+{
+    "$schema": "https://www.schemastore.org/htmlhint.json",
+    "alt-require": true,
+    "attr-lowercase": true,
+    "attr-no-duplication": true,
+    "attr-no-unnecessary-whitespace": true,
+    "attr-unsafe-chars": true,
+    "attr-value-double-quotes": true,
+    "attr-value-no-duplication": true,
+    "button-type-require": true,
+    "form-method-require": true,
+    "frame-title-require": true,
+    "id-unique": true,
+    "inline-script-disabled": true,
+    "input-requires-label": true,
+    "space-tab-mixed-disabled": "space",
+    "spec-char-escape": true,
+    "src-not-empty": true,
+    "tag-no-obsolete": true,
+    "tag-pair": true,
+    "tagname-lowercase": true,
+    "tagname-specialchars": true
+}
